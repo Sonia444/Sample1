@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Root signature="{90D101C8-80C7-48D4-9055-2E451B9BCD75}" version="1400" key="{CD84B492-E74E-4FD0-9810-FA4D2B6E5713}" typeId="{90D101C8-80C7-48D4-9055-2E451B9BCD75}">
+	<config nodeName="TestedApps" />
+	<testData />
+	<data />
+	<children>
+		<child key="{520E41E7-5448-45A5-9E1A-14BA187217AB}">
+			<config nodeName="Orders" autorunOnRecording="False" enabled="True" count="1" useFeaturedRuntimeObject="True" userChangeName="False">
+				<runModeParams activeRunMode="Simple">
+					<param name="RunAs" parameters="" workFolder="C:\Documents\Sample\Orders\TestedApps" userName="" password="" domain="" />
+					<param name="Profile" parameters="" workFolder="C:\Documents\Sample\Orders\TestedApps" useProject="False" projectFileName="" overrideProfiler="False" profilerName="" profileRunMode="Silent" AQtimeVersion="0" forceRunMode="False" />
+					<param name="Debug" parameters="" workFolder="C:\Documents\Sample\Orders\TestedApps" />
+					<param name="Simple" fileName="Orders.exe" filePath="C:\Documents\Sample\Orders\TestedApps\" parameters="" workFolder="C:\Documents\Sample\Orders\TestedApps" />
+				</runModeParams>
+			</config>
+			<testData />
+			<data />
+		</child>
+		<child key="{1023628E-21F4-4ADF-868C-A96B45E4F796}">
+			<config nodeName="Orders1" autorunOnRecording="False" enabled="True" count="1" useFeaturedRuntimeObject="True" userChangeName="False">
+				<runModeParams activeRunMode="Simple">
+					<param name="RunAs" parameters="" workFolder="C:\Users\Public\Documents\TestComplete 15 Samples\Desktop\Orders\C#\bin\Release" userName="" password="" domain="" />
+					<param name="Profile" parameters="" workFolder="C:\Users\Public\Documents\TestComplete 15 Samples\Desktop\Orders\C#\bin\Release" useProject="False" projectFileName="" overrideProfiler="False" profilerName="" profileRunMode="Silent" AQtimeVersion="0" forceRunMode="False" />
+					<param name="Debug" parameters="" workFolder="C:\Users\Public\Documents\TestComplete 15 Samples\Desktop\Orders\C#\bin\Release" />
+					<param name="Simple" fileName="Orders.exe" filePath="C:\Users\Public\Documents\TestComplete 15 Samples\Desktop\Orders\C#\bin\Release\" parameters="" workFolder="C:\Users\Public\Documents\TestComplete 15 Samples\Desktop\Orders\C#\bin\Release" />
+				</runModeParams>
+			</config>
+			<testData />
+			<data />
+		</child>
+	</children>
+</Root>
